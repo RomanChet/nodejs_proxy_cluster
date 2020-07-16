@@ -1,0 +1,10 @@
+[2020-07-16 22:47:16] 127.0.0.1 GET http://rusrails.ru/  
+[2020-07-16 22:47:16] 127.0.0.1 GET http://ghbtns.com/github-btn.html?user=morsbox&repo=rusrails&type=watch&count=true&size=large  
+[2020-07-16 22:47:16] 127.0.0.1 GET http://rusrails.ru/assets/application-b51fb64041b2c9ed640eec26b96586e4350f0e3ce9e04de7f5a46da4d72cf60f.css  
+[2020-07-16 22:47:16] 127.0.0.1 GET http://rusrails.ru/assets/application-f90ff0608b7f84b91d2669947268f4775ce3ad3b5a1daa298fd4407c43c3652f.js  
+[2020-07-16 22:47:17] 127.0.0.1 POST http://ocsp.pki.goog/gts1o1core  
+[2020-07-16 22:47:17] 127.0.0.1 GET http://rusrails.ru/assets/github-cb6843f5a5c77d9226a1fdeeb1994398099eb548a5dab628e3ea272acdc830a5.png  
+[2020-07-16 22:47:17] 127.0.0.1 GET http://rusrails.ru/assets/twitter-241515185a67986d51d7a6e5b9a08c066290bc97ed3038375e5b41cdd867d5c8.png  
+[2020-07-16 22:47:17] 127.0.0.1 GET http://rusrails.ru/assets/rusrails-3a40876ce46d08d466ccd82a63b46d181c829b9ac863ff753173a3f0db15a6d5.png  
+[2020-07-16 22:47:17] 127.0.0.1 GET http://platform.twitter.com/widgets.js  
+[2020-07-16 22:47:18] 127.0.0.1 POST http://ocsp.pki.goog/gts1o1core  
